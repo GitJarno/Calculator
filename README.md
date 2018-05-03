@@ -2,6 +2,8 @@
 
 ## Tehtävänanto
 
+### Sivuston näkymä(https://gitjarno.github.io/Calculator/)
+
 Viimeistelkää laskin graafisesti ja tominnallisesti.  
 
 Muuttakaa laskin niin, että laskimessa ei ole enää kuin yksi lukukenttä ja tuloskenttä.
